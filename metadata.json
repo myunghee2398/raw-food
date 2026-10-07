@@ -1,0 +1,6 @@
+{
+  "name": "하루한잔 국내산 50곡 생식",
+  "description": "국내산 50가지 곡물과 채소를 그대로 담은 간편한 한 끼 식사대용 생식 소개 및 간편 주문",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
